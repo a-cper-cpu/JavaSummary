@@ -3,5 +3,5 @@
 
 ### Java
 
-- ​	<a href="https://github.com/a-cper-cpu/JavaSummary/java/basic/javase/programming-basic.md">Java基础</a>
+- ​	<a href="https://github.com/a-cper-cpu/JavaSummary/blob/main/java/basic/javase/programming-basic.md">Java基础</a>
 
